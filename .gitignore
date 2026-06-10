@@ -2,5 +2,5 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
-best_model.h5
+best_model.keras
 *.h5
